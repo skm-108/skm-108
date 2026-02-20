@@ -14,95 +14,107 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔬 About Me
+## 👨‍💻 Shivam Kumar Mishra  
 
-I’m a Computer Science undergraduate (Pre-Final Year) with hands-on experience in Machine Learning, Backend Engineering, and Intelligent System Development within high-security, government-grade environments.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Shivam+Kumar+Mishra;AI%2FML+Enthusiast;Building+Scalable+AI+Systems;Future+AI+Engineer" />
+</p>
 
-I have contributed to production-oriented ML systems and AI-driven security pipelines at:
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Focused-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DRDO-Intern-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IWAI-Intern-orange?style=for-the-badge" />
+</p>
 
-🛡️ DESIDOC, DRDO (Ministry of Defence) — Machine Learning–based anomaly detection systems
-🔐 Inland Waterways Authority of India (MoPSW) — AI-driven threat detection and secure infrastructure architecture
+📍 New Delhi, India  
 
-I focus on building production-grade Machine Learning systems with emphasis on scalability, model reliability, and real-world deployment.
+---
 
-I enjoy building systems that combine:
+## 🔬 About Me  
 
-Intelligence + Scalability + Reliability + Real-World Impact
+Hi, I’m **Shivam Kumar Mishra** — a Pre-Final Year Computer Science undergraduate passionate about building **intelligent, scalable, production-ready AI systems**.
 
-Long-term vision: Contribute to advanced AI systems, Quantum Computing research, and large-scale distributed computing infrastructure.
+🛡️ **DESIDOC, DRDO (Ministry of Defence)** — ML-based anomaly detection systems  
+🔐 **Inland Waterways Authority of India (MoPSW)** — AI-driven threat detection & secure infrastructure  
 
-💼 Experience Highlights
-🤖 Machine Learning & Security Intern — DRDO
+I specialize in:
 
-Designed and implemented ML-based email anomaly detection system
+**Scalable Machine Learning • Model Reliability • Real-World Deployment**
 
-Reduced anomalous email activity by 60%
+Long-term vision: Contribute to **advanced AI systems, Quantum Computing research, and distributed computing infrastructure.**
 
-Improved spam classification accuracy by 25%
+---
 
-Applied supervised learning algorithms in real-world deployment environments
+## 💼 Experience Highlights  
 
-Optimized model performance using feature engineering and cross-validation techniques
+### 🤖 Machine Learning & Security Intern — DRDO  
 
-Conducted vulnerability assessments and system-level security analysis
+- Designed & deployed ML-based email anomaly detection system  
+- Reduced anomalous activity by **60%**  
+- Improved spam classification accuracy by **25%**  
+- Optimized model performance using feature engineering & cross-validation  
+- Conducted system-level vulnerability analysis  
 
-🔐 Cyber Security Analyst — IWAI
+### 🔐 Cyber Security Analyst — IWAI  
 
-Developed Random Forest-based APT and zero-day attack detection model
+- Built **Random Forest-based APT & zero-day detection model**  
+- Engineered AI-driven threat detection pipeline  
+- Performed Network Traffic Analysis (NTA)  
+- Implemented real-time anomaly monitoring system  
 
-Engineered AI-assisted threat detection pipeline using structured log data
+---
 
-Performed Network Traffic Analysis (NTA) and feature engineering
+## 🛠️ Tech Stack  
 
-Implemented real-time anomaly monitoring and alerting system
+### 💻 Languages  
+Python | Java | C++ | C | SQL | JavaScript | Dart  
 
-🛠️ Technical Skill Set
-💻 Programming Languages
+### 🤖 AI / ML  
+Machine Learning | Supervised Learning | Classification Models  
+Random Forest | Anomaly Detection  
+TensorFlow | PyTorch  
+RAG | LangChain | LLM Integration  
 
-Python | Java | C++ | C | SQL | JavaScript | Dart
+### ⚙️ Systems  
+Linux | Git | GitHub | GCP  
+Firebase | Postman | Android Studio | Power BI  
 
-🧠 Core Computer Science
+---
 
-Data Structures & Algorithms
-Operating Systems
-Computer Networks
-DBMS
-Object-Oriented Programming
-Theory of Computation
+## 📊 GitHub Stats  
 
-🤖 AI & Machine Learning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skm-108&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skm-108&theme=tokyonight" height="160"/>
+</p>
 
-Machine Learning | Supervised Learning | Classification Models
-Random Forest | Anomaly Detection Systems
-Model Optimization | Cross-Validation | Feature Engineering
-TensorFlow | PyTorch
-Retrieval-Augmented Generation (RAG)
-LangChain | Large Language Model (LLM) Integration
+---
 
-⚙️ Systems & Tools
+## ⚡ Fun facts  
 
-Linux | Git | GitHub | Google Cloud Platform
-Firebase | Postman | Android Studio | Power BI
+- Deeply interested in philosophy — logic, ethics, and human reasoning.  
+- Former dog parent who learned consistency beyond code.  
+- Enjoy films exploring psychology and strategic thinking.  
 
-⚡ Fun facts
+---
 
-Deeply interested in philosophy — especially logic, ethics, and human reasoning.
+## 🤝 Let’s Connect  
 
-A former dog parent who learned consistency and loyalty beyond code.
+<p align="center">
+  <a href="https://linkedin.com/in/skm">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/skm-108">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-Drawn to films that explore psychology, strategy, and layered storytelling.
+**Currently seeking: AI/ML Engineering Internship – 2026**
 
-🤝 Let’s Connect
+---
 
-🔗 linkedin.com/in/skm
-💻 github.com/skm-108
+## ⚡ Philosophy  
 
-Open to:
-AI/ML Internships | Software Engineering Roles | Research Collaboration
-
-Currently seeking: AI/ML Engineering Internship – 2026
-
-⚡ Philosophy
-
-Intelligence without scalability is incomplete.
-I aim to build AI systems that are robust, scalable, and deployable in real-world environments.
+> Intelligence without scalability is incomplete.  
+> I build AI systems that are robust, scalable, and real-world ready.
