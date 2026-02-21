@@ -46,7 +46,7 @@ Long-term vision: Contribute to **advanced AI systems, Quantum Computing researc
 
 ---
 
-## 💼 Experience Highlights  
+## 💼 Experience Highlights
 
 ### 🤖 Machine Learning & Security Intern — DRDO  
 
@@ -118,3 +118,4 @@ Firebase | Postman | Android Studio | Power BI
 
 > Intelligence without scalability is incomplete.  
 > I build AI systems that are robust, scalable, and real-world ready.
+this is feature 2
