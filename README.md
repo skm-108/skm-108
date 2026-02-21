@@ -118,3 +118,4 @@ Firebase | Postman | Android Studio | Power BI
 
 > Intelligence without scalability is incomplete.  
 > I build AI systems that are robust, scalable, and real-world ready.
+this is feature 2
