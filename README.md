@@ -46,7 +46,7 @@ Long-term vision: Contribute to **advanced AI systems, Quantum Computing researc
 
 ---
 
-## 💼 Experience Highlights  
+## 💼 Experience Highlights
 
 ### 🤖 Machine Learning & Security Intern — DRDO  
 
